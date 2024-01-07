@@ -8,5 +8,5 @@ Image scraping refers to the automated process of extracting images from website
 
 * Personal Projects: Build image libraries for creative endeavors, gather reference materials for artistic pursuits, or curate collections of specific themes.
 ## Libraries used 
-** Programming libraries: Using libraries like Beautiful Soup (Python) or Scrapy (Python), you can write scripts to automate the scraping process, extracting image URLs and downloading them in bulk. This requires some coding knowledge.
+* Programming libraries: Using libraries like Beautiful Soup (Python) or Scrapy (Python), you can write scripts to automate the scraping process, extracting image URLs and downloading them in bulk. This requires some coding knowledge.
 
